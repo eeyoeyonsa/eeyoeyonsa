@@ -26,6 +26,7 @@
 ### Industry Experience 
 *  Oil & Gas
 *  Health
+*  Education
 *  Food Processing
 *  Non profit organization
 *  Agriculture
