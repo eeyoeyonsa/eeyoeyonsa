@@ -1,7 +1,6 @@
-!([https://github-readme-stats.vercel.app/api?username=eeyoeyonsa&theme=dark&show_icons=true](https://github.com/eeyoeyonsa/eeyoeyonsa/blob/main/E-Eyo%20Eyo-Nsa%20Web%20Banner.png)
+![E-Eyo Eyo-Nsa Web Banner](https://github.com/eeyoeyonsa/eeyoeyonsa/raw/main/E-Eyo%20Eyo-Nsa%20Web%20Banner.png)
 
-
-# Hello.
+# Hello, welcome.
 
 ## You are welcome to my Portfolio.
 
